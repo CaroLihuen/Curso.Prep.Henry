@@ -1,0 +1,10 @@
+Variables: es la forma de nombrar algo para despues darle un valor.
+
+Strings: es texto que siempre va entre comillas.
+
+Funciones: argumentos, return
+Los argumentos es una forma de llevar acabo una accion en forma de funcion. Por dentro lleva el como se hace esa accion. 
+Los return es una respuesta a una forma de llevar una accion.
+
+Valores Boleeanos: True y False
+Son un enunciado si dice si algo es verdadero o falso. true:verdad; false:falso.

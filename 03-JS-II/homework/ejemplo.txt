@@ -1,0 +1,7 @@
+For: es una forma de que una accion se realice continuamente por un dato determinado.
+
+&&: el AND evalua las expresiones y dice si es verdadera o falsa.
+
+!: el NOT indica lo contrario a lo que queremos decir.
+
+││: el OR indica si las expresiones son verdaderas o falsas.
