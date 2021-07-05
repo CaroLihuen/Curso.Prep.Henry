@@ -1,0 +1,5 @@
+Prototype: son formas de hacer funciones o metodos sin repetir lo mismo todo el tiempo, ademas consumen
+menos espacion en una computadora.
+
+Constructors: es una clase o un objeto que contiene toda clase de dato como: funciones,array,etc.
+Las clases no son algo proveniente de JS.

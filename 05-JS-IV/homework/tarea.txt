@@ -1,0 +1,10 @@
+Objetos: contienen datos sobre una sola cosa, van entre llaves { }.
+
+Propiedades: los objetos contienen dos propiedas: Key(clave) y el Value(valor).
+La Key es el nombre con la que la conocemos, y el valor la informacion que queramos que tenga,se separan entre comas. 
+
+bucle for..in:como los objetos no contienen indices numericos, el for in se utiliza para poner un bucle de objetos.
+Contienen una variable y el nombre del objeto.
+
+Notación de puntos vs notación de corchetes: la notación de punto llama un objeto con un punto y el nombre de la clave. 
+La notación de corchetes llama a un objeto entre corchetes[ ].

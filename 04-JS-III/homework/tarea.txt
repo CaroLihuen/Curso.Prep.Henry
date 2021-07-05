@@ -1,0 +1,1 @@
+Arrays: es una manera de explicar un contenido, con la cantidad de cosas que yo le quiera poner, siempre empieza desde el cero.
